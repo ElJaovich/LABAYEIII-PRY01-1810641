@@ -54,7 +54,7 @@ class RedTransporte {
 }
 
 fun main() {
-    val nombreArchivo = "input.txt"
+    val nombreArchivo = "rutaOptUSB.txt"
     val escaner = Scanner(File(nombreArchivo))
 
     // Leer las líneas de cantidad de autobuses y rutas (no se utilizan directamente)
